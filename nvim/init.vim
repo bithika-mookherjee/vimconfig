@@ -14,6 +14,8 @@ set ts=4
 set sw=4
 set colorcolumn=80
 
+colorscheme retrobox 
+
 let mapleader = ","
 let maplocalleader = ","
 
