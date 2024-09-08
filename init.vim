@@ -8,7 +8,11 @@ call plug#end()
 
 echo "Hello there."
 
+set number
 set hlsearch
+set ts=4
+set sw=4
+set colorcolumn=80
 
 let mapleader = ","
 let maplocalleader = ","
