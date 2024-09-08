@@ -3,6 +3,7 @@ call plug#begin()
 
 Plug 'junegunn/vader.vim'
 Plug 'arzg/vim-colors-xcode'
+Plug 'tpope/vim-fugitive'
 
 call plug#end()
 
